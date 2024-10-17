@@ -37,7 +37,7 @@ while True:
     c.send(msg.encode())
     
 ```
-## OUPUT
+## OUTPUT
 
 ![ex-3b](Ex-3b.png)
 
